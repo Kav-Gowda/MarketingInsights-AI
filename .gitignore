@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Jupyter / Colab
+.ipynb_checkpoints
+*.ipynb
+
+# Logs / outputs
+*.log
+*.csv
+*.dat
+*.tmp
+*.bak
+
+# Model files and saved states
+*.h5
+*.pkl
+*.pickle
+*.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
